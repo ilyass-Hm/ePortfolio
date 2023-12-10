@@ -1,13 +1,20 @@
 # Ilyass Hmamou ePortfolio
 
 ## Table of content
-  [Self-Introduction](https://github.com/ilyass-Hm/ePortfolio/edit/main/README.md#self-introduction)
-  [Project Introduction: Artifacts Selection](https://github.com/ilyass-Hm/ePortfolio/edit/main/README.md#project-introduction-artifacts-selection)
-  [Code Review](https://github.com/ilyass-Hm/ePortfolio/edit/main/README.md#code-review)
-  [Enhancement One: Software Design and Engineering ](https://github.com/ilyass-Hm/ePortfolio/edit/main/README.md#enhancement-one-software-design-and-engineering)
-  [Enhancement Two: Algorithm and data structure](https://github.com/ilyass-Hm/ePortfolio/edit/main/README.md#enhancement-two-algorithm-and-data-structure)
-  [Enhancement Three: Databases](https://github.com/ilyass-Hm/ePortfolio/edit/main/README.md#enhancement-two-algorithm-and-data-structure)
-  [Self Reflection](https://github.com/ilyass-Hm/ePortfolio/edit/main/README.md#enhancement-two-algorithm-and-data-structure)
+  [Self-Introduction](https://github.com/ilyass-Hm/ePortfolio/blob/main/README.md#self-introduction)
+  
+  [Project Introduction: Artifacts Selection](https://github.com/ilyass-Hm/ePortfolio#project-introduction-artifacts-selection)
+  
+  [Code Review](https://github.com/ilyass-Hm/ePortfolio#code-review)
+  
+  [Enhancement One: Software Design and Engineering](https://github.com/ilyass-Hm/ePortfolio#enhancement-one-software-design-and-engineering)
+  
+  [Enhancement Two: Algorithm and data structure](https://github.com/ilyass-Hm/ePortfolio#enhancement-two-algorithm-and-data-structure)
+  
+  [Enhancement Three: Databases](https://github.com/ilyass-Hm/ePortfolio#enhancement-three-databases)
+  
+  [Self Reflection](https://github.com/ilyass-Hm/ePortfolio#self-reflection)
+  
 ## Self-Introduction:
   I am Ilyass Hmamou, currently a computer science undergraduate in my final term, about to graduate. For the past six years, I've had a professional career in the software industry, starting as a software engineer and later transitioning into the role of a software solution architect. 
 I have been in the computer science program for approximately eight years. I started with an associate's degree from a two-year college, leading to my first job as a software engineer. After a few years, I realized my ambition to attain a bachelor's degree and thus transferred my credits to SNHU. For the past four years, I've been steadily taking one or two classes each term to finally graduate at the end of this year, 2023.
